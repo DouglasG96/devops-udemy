@@ -26,10 +26,13 @@
         <module name="billing" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="billing" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="billing" options="-parameters -endorseddirs /home/juniodouglas/Escritorio/Repositorios/devops-udemy/billing/target/endorsed" />
+      <module name="billing" options="-parameters -endorseddirs $PROJECT_DIR$/target/endorsed" />
     </option>
   </component>
 </project>
