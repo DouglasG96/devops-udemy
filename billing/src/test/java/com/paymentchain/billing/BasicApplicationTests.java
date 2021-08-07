@@ -57,7 +57,7 @@ public class BasicApplicationTests {
     private static final String USER = "admin";
 
     //Prueba
-    //
+    // prueba notificaciones slack
     public static String asJsonString(final Object obj) {
         try {
             final ObjectMapper mapper = new ObjectMapper();
