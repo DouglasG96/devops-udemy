@@ -57,6 +57,7 @@ public class BasicApplicationTests {
     private static final String USER = "admin";
 
     //Prueba
+    //
     public static String asJsonString(final Object obj) {
         try {
             final ObjectMapper mapper = new ObjectMapper();
