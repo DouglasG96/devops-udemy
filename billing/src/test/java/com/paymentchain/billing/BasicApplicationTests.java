@@ -56,7 +56,7 @@ public class BasicApplicationTests {
     private static final String PASSWORD = "admin";
     private static final String USER = "admin";
 
-    //Prueba de commit
+    //Prueba
     public static String asJsonString(final Object obj) {
         try {
             final ObjectMapper mapper = new ObjectMapper();
