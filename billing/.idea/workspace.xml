@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7f13663-1d3d-4744-90b4-ced798447223" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/paymentchain/billing/controller/InvoiceRestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/billing-0.0.4-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.netbeans_automatic_build" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/paymentchain/billing/controller/InvoiceRestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/paymentchain/billing/dto/InvoiceRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/paymentchain/billing/respository/InvoiceRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.paymentchain.billing.BasicApplicationTests.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/paymentchain/billing/BasicApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/paymentchain/billing/BasicApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/paymentchain/billing/BasicApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +55,7 @@
       <workItem from="1628208238611" duration="243000" />
       <workItem from="1628208517710" duration="735000" />
       <workItem from="1628284070428" duration="1871000" />
+      <workItem from="1628303447289" duration="175000" />
     </task>
     <servers />
   </component>
