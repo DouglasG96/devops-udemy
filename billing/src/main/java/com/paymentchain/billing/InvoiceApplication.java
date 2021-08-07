@@ -76,6 +76,7 @@ public class InvoiceApplication {
         return SecurityContext.builder().securityReferences(defaultAuth()).build();
     }
 
+    //comentario
     private List<SecurityReference> defaultAuth() {
         AuthorizationScope authorizationScope = new AuthorizationScope("global", "accessEverything");
         AuthorizationScope[] authorizationScopes = new AuthorizationScope[1];

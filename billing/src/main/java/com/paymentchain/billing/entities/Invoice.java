@@ -18,6 +18,7 @@ import lombok.Data;
  * @author sotobotero
  */
 @Entity
+//Entidad
 //@Data
 public class Invoice {
    @Id
