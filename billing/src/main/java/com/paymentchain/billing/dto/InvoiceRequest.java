@@ -2,7 +2,10 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
- */
+ */x-special/nautilus-clipboard
+copy
+file:///home/juniodouglas/Descargas/Windows11_InsiderPreview_Client_x64_es-mx_22000.iso
+
 package com.paymentchain.billing.dto;
 
 import io.swagger.annotations.ApiModel;
