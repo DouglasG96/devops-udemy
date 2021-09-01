@@ -61,7 +61,10 @@ public class InvoiceRestController {
         Optional<Invoice> findById = billingRepository.findById(Long.valueOf(id));
         Invoice get = findById.get();
         return irspm.InvoiceToInvoiceRespose(get);
-    }
+ x-special/nautilus-clipboard
+copy
+file:///home/juniodouglas/Descargas/Windows11_InsiderPreview_Client_x64_es-mx_22000.iso
+   }
     
     @PutMapping("/{id}")
     public ResponseEntity<?> put(@PathVariable String id, @RequestBody InvoiceRequest input) {
