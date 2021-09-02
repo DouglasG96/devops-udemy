@@ -66,7 +66,6 @@ public class InvoiceResponse {
         return amount;
     }
 
-    // buzo
     public void setAmount(double amount) {
         this.amount = amount;
     }

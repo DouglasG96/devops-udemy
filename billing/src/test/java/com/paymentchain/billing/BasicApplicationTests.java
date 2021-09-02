@@ -56,9 +56,6 @@ public class BasicApplicationTests {
     private static final String PASSWORD = "admin";
     private static final String USER = "admin";
 
-    //Prueba
-    // prueba notificaciones slack
-    // otro comentario
     public static String asJsonString(final Object obj) {
         try {
             final ObjectMapper mapper = new ObjectMapper();
